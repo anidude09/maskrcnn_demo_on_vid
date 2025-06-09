@@ -23,6 +23,11 @@ A computer vision system that detects and segments cows in pen videos using Mask
 
 ## Getting Started
 
+
+## Demo video Link
+https://drive.google.com/file/d/1Sf0X_3J3qF3y0aXJ9mQwSHqBm0SfRJ2O/view?usp=sharing
+
+
 ### Prerequisites
 
 - Python 3.8 or higher
