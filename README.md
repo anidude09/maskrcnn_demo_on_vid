@@ -123,23 +123,8 @@ project_directory/
   * Preprocessing: ~100 frames/second
   * Detection: ~2-5 frames/second with GPU
 
-## Limitations
-
-- Designed for overhead pen videos
-- Assumes consistent lighting conditions
-- May have reduced accuracy in crowded scenes
-- Requires specific video orientation (upside-down input)
 
 ## Contributing
 
 Feel free to open issues or submit pull requests. For major changes, please open an issue first to discuss what you'd like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- TensorFlow Model Garden for the Mask R-CNN implementation
-- OpenCV team for video processing capabilities
-- Original Mask R-CNN paper authors 
